@@ -14,41 +14,49 @@ const SectionTwo = () => {
             <CardComponent
               title="SEO TRAINING COURSE"
               description=" first name"
+              image = "https://source.unsplash.com/random/"
             />
 
             <CardComponent
               title="SEO TRAINING COURSE"
               description=" first name"
+              image = "https://source.unsplash.com/random/"
             />
 
             <CardComponent
               title="SEO TRAINING COURSE"
               description=" first name"
+              image = "https://source.unsplash.com/random/"
             />
 
             <CardComponent
               title="SEO TRAINING COURSE"
               description=" first name"
+              image = "https://source.unsplash.com/random/"
             />
 
             <CardComponent
               title="SEO TRAINING COURSE"
               description=" first name"
+              image = "https://source.unsplash.com/random/"
             />
 
             <CardComponent
               title="SEO TRAINING COURSE"
               description=" first name"
+              image = "https://source.unsplash.com/random/"
             />
 
             <CardComponent
               title="SEO TRAINING COURSE"
               description=" first name"
+              image = "https://source.unsplash.com/random/"
             />
 
             <CardComponent
               title="SEO TRAINING COURSE"
               description=" first name"
+              image = "https://source.unsplash.com/random/"
             />
           </div>
           <ButtenTypeOne

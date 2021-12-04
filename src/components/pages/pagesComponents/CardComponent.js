@@ -10,7 +10,7 @@ const Cardcomp = ({
             <div class="col-sm-12 col-md-6 col-lg-3 centering">
                     <div class="course-card">
                         <div class="course-image">
-                            <img src="https://source.unsplash.com/random/" alt=""/>
+                            <img src={image} alt=""/>
                         </div>
                         <div class="course-details">
                             <p class="course-title">
