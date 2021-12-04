@@ -2,7 +2,6 @@ import React from 'react';
 import './App.css'
 import { BrowserRouter, Routes , Route } from 'react-router-dom';
 import MainComponent from './components/MainComponent';
-import HomeCheck from './components/pages/HomeCheck'
 
 
 
@@ -11,7 +10,7 @@ function App() {
     <BrowserRouter>
     <MainComponent/>
     <Routes >
-      <Route exact path="/check" component={HomeCheck} />
+      <Route exact path="/check" component={""} />
     </Routes>
     </BrowserRouter>
     

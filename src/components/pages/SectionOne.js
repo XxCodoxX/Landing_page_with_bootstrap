@@ -1,6 +1,6 @@
 import React from "react";
 import SectionOneImg from '../../img/sectionOne.png'
-import ButtenTypeOne from "./pagesComponents/ButtenTypeOne";
+import ButtonTypeOne from "./pagesComponents/ButtonTypeOne";
 
 const SectionOne = () => {
   return (
@@ -18,7 +18,7 @@ const SectionOne = () => {
                 labore et dolore magna aliqua.
             </p>
 
-            <ButtenTypeOne
+            <ButtonTypeOne
                 name = "View All Course"
                 bgColor = "#fecb00"
                 btnCount = "one"

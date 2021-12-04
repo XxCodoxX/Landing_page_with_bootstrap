@@ -1,5 +1,5 @@
 import React from "react";
-import ButtenTypeOne from "./pagesComponents/ButtenTypeOne";
+import ButtonTypeOne from "./pagesComponents/ButtonTypeOne";
 import CardComponent from "./pagesComponents/CardComponent";
 
 const SectionTwo = () => {
@@ -59,7 +59,7 @@ const SectionTwo = () => {
               image = "https://source.unsplash.com/random/"
             />
           </div>
-          <ButtenTypeOne
+          <ButtonTypeOne
           name = "View All Course"
           bgColor = "#fecb00"
           btnCount = "second"
