@@ -112,6 +112,9 @@ p {
   text-decoration: none;
 }
 
+.dropdown-menu {
+  border: none !important;
+}
 
 /* footer */
 
@@ -346,6 +349,9 @@ p {
   .section-one-layer img {
     display: none;
   }
+  .section-one-secondHeading {
+    font-size: 3em !important;
+  }
 }
 
 .section-one-text {
@@ -363,7 +369,7 @@ p {
 
 .section-one-secondHeading {
   color: #f3e303;
-  font-size: 4em;
+  font-size: 6em;
   font-weight: 800;
   line-height: 1em;
   max-width: 500px;
